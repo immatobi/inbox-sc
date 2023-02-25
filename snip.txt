@@ -1,0 +1,3 @@
+Create your node project
+install the VSCode solidity extension
+install the specific solidity compiler you need
